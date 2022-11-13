@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @igorcibotarescu
 - 👀 I’m interested in Computer Science and Electronics
-- 🌱 I’m currently learning POLITEHNICA UNIVERSITY FROM BUCHAREST
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I graduated POLITEHNICA UNIVERSITY FROM BUCHAREST
+- 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me:
-via email:cibotarescu00@mail.ru
+via email:cibotarescu00@mail.ru/igor.cibotarescu@gmail.com
 or find me on LinkedIn
 <!---
 igorcibotarescu/igorcibotarescu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
